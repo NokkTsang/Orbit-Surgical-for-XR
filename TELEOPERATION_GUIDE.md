@@ -10,8 +10,8 @@ Supported input devices:
 
 ## Prerequisites
 
-- Isaac Sim 4.1.0 installed at `/home/jessie/NokkTsang/isaac-sim-standalone-4.1.0`
-- Isaac Lab 1.0.0 installed at `/home/jessie/NokkTsang/IsaacLab-1.0.0`
+- Isaac Sim 4.1.0
+- Isaac Lab 1.0.0
 - All dependencies installed (see main README for setup instructions)
 
 ## Running Teleoperation Scenes
